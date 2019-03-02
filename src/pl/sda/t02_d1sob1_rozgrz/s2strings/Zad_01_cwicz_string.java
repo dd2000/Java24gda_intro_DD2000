@@ -1,6 +1,6 @@
 package pl.sda.t02_d1sob1_rozgrz.s2strings;
 
-public class Cwicz_string {
+public class Zad_01_cwicz_string {
 
     static String my_trim(String tst){
         return tst.trim().toLowerCase();
@@ -20,4 +20,4 @@ public class Cwicz_string {
 
 
     }  // main
-} // Cwicz_string
+} // Zad_01_cwicz_string
