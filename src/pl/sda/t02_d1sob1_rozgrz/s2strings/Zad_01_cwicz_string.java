@@ -1,4 +1,7 @@
 package pl.sda.t02_d1sob1_rozgrz.s2strings;
+/*
+    Napisz klasę, która wykorzysta większość z metod dostępnych w klasie String.
+*/
 
 public class Zad_01_cwicz_string {
 

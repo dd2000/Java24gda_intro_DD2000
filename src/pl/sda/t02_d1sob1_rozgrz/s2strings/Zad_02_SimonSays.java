@@ -1,4 +1,8 @@
 package pl.sda.t02_d1sob1_rozgrz.s2strings;
+/*
+Napisz metodę, która zwróci tekst: “Simon says: [{text}]”, gdzie {text} - to argument metody.
+Użyj konkatenacji lub StringBuildera.
+*/
 
 public class Zad_02_SimonSays {
 
