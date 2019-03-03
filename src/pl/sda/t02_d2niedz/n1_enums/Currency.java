@@ -19,12 +19,12 @@ package pl.sda.t02_d2niedz.n1_enums;
 public enum Currency {
 
 
-    // wartości enuma `Colors`
+    // wartości enuma `Currency`
     PLN("zł", 1.00),
     USD("$", 3.70),
     EUR("€", 3.28),
-    JEN("J", 0.20),
-    GBF("F",4.99);
+    JPY("¥", 0.20),
+    GBP("£",4.99);
 
     private String symbol;
     private double kurs;
@@ -35,4 +35,8 @@ public enum Currency {
         this.kurs = kurs;
     }
 
+    public double kupWalute(double ilePLN) {
+        System.out.println("Kupiono "+ (ilePLN / kurs) + symbol+" za "+ilePLN+"zł" );
+        return (ilePLN / kurs);
+    }
 } // Currency enum
