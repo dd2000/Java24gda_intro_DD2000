@@ -16,7 +16,7 @@ public class Zad_02_potegowanie {
 
     public static void main(String[] args) {
         int a= 5;  // podstawa
-        int n= 3;  // wykładnik potęgi
+        int n= 3;  // wykładnik potęgi a^n
         System.out.println("\n"+a+" do potegi "+n+" daje: "+potegowanie(a,n));
     } //main
 
