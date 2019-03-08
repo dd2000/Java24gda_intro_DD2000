@@ -1,4 +1,4 @@
-package pl.sda.t02_d1sob1_rozgrz;
+package pl.sda.t02_d1sob1_rozgrz_strings;
 
 public class FamilyTest {
     public static void main(String[] args) {

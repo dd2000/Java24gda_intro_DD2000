@@ -1,4 +1,4 @@
-package pl.sda.t02_d1sob1_rozgrz.s1encapsulation;
+package pl.sda.t02_d1sob1_rozgrz_strings.s1encapsulation;
 
 public class Vehicle {
     // możliwe stany pojazdu

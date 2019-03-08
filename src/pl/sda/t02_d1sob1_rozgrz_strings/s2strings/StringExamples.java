@@ -1,4 +1,4 @@
-package pl.sda.t02_d1sob1_rozgrz.s2strings;
+package pl.sda.t02_d1sob1_rozgrz_strings.s2strings;
 
 public class StringExamples {
     public static void main(String[] args) {

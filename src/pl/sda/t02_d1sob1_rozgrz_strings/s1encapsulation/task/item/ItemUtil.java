@@ -1,4 +1,4 @@
-package pl.sda.t02_d1sob1_rozgrz.s1encapsulation.task.item;
+package pl.sda.t02_d1sob1_rozgrz_strings.s1encapsulation.task.item;
 
 class ItemUtil {
     String truncate(String text, int maxLength) {

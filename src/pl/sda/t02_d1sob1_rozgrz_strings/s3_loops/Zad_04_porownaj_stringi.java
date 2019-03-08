@@ -1,4 +1,4 @@
-package pl.sda.t02_d1sob1_rozgrz.s3_loops;
+package pl.sda.t02_d1sob1_rozgrz_strings.s3_loops;
 
 /*
     Napisz metodę która sprawdzi czy dwa podane Stringi (zmienne typu String) są takie same
