@@ -1,4 +1,4 @@
-package pl.sda.t02_d2niedz._1_enums;
+package pl.sda.t02_d2niedz_enums_arrays._1_enums;
 
 public enum Colors {
 

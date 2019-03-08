@@ -1,4 +1,4 @@
-package pl.sda.t02_d2niedz.n2_arrays;
+package pl.sda.t02_d2niedz_enums_arrays.n2_arrays;
 
 // wyświetla wszystkie elementy String tablicy (wpisane wcześniej do pola tablica obiektu) na konsoli
 

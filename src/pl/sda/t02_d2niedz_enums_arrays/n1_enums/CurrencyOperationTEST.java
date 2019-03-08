@@ -1,4 +1,4 @@
-package pl.sda.t02_d2niedz.n1_enums;
+package pl.sda.t02_d2niedz_enums_arrays.n1_enums;
 
 public class CurrencyOperationTEST {
 

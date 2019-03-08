@@ -1,4 +1,4 @@
-package pl.sda.t02_d2niedz.n2_arrays;
+package pl.sda.t02_d2niedz_enums_arrays.n2_arrays;
 
 /*
     Napisz metodę, która jako parametr przyjmuje zmienną typu String[] - tzn. tablicę Stringów
@@ -14,6 +14,7 @@ public class Zad_01_poprawione {
         this.tablica = tablica;
     }  // setTablica(String[] tablica)
 
+    // konstruktor klasy Zad_1_poprawione
     public Zad_01_poprawione(String[] tablica) {
         this.tablica = tablica;
     }

@@ -1,4 +1,4 @@
-package pl.sda.t02_d2niedz.arrays;
+package pl.sda.t02_d2niedz_enums_arrays.arrays;
 
 public class ArraysTasks {
     public static void main(String[] args) {
