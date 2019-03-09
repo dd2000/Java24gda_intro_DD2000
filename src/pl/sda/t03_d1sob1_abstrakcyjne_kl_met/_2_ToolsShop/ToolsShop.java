@@ -1,6 +1,6 @@
-package pl.sda.t03_d1sob1_abstrakcyjne_kl_met.ToolsShop;
+package pl.sda.t03_d1sob1_abstrakcyjne_kl_met._2_ToolsShop;
 
-    // Utwórz klasę ToolsShop w której utworzysz kilka narzędzi i wyświetlisz ich ceny.
+    // Utwórz klasę _2_ToolsShop w której utworzysz kilka narzędzi i wyświetlisz ich ceny.
 
 public class ToolsShop {
     public static void main(String[] args) {
@@ -19,4 +19,4 @@ public class ToolsShop {
         }  //for each
     }
 
-} // class ToolsShop
+} // class _2_ToolsShop
