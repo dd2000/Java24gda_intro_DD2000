@@ -1,4 +1,4 @@
-package pl.sda.t03_d1sob1_abstrakcyjne_kl_met;
+package pl.sda.t03_d1sob1_abstrakcyjne_kl_met.ToolsShop;
 
 //    Utwórz klasę Tool, która będzie reprezentować narzędzia do kupienia w sklepie.
 //    Każde narzędzie powinno mieć swój model i cenę.
@@ -13,13 +13,32 @@ package pl.sda.t03_d1sob1_abstrakcyjne_kl_met;
 public class Tool {
     private String model;
     private double price; // cena
+
+    // konstruktor
+    public Tool(String model, double price) {
+        this.model = model;
+        this.price = price;
+    }
+
+    public String getModel() {
+        return model;
+    }
+
+    public void setModel(String model) {
+        this.model = model;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
+    public void printOpis() {
+        System.out.println("Tool: model: "+this.model+" cena: "+this.price);
+    }
 }  // class Tool
 
-public class Hammer extends Tool {
-    private double masa;
-}  // class Hammer
 
-public class Saw extends Tool {
-    private double sawLength;
-
-}  // class Saw
